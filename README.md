@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Javascript, TailwindCSS**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 🤝 I’m looking for help with **React js**
-- 💬 Ask me about **Html, Css, C, C++, Java**
+- 💬 Ask me about **Html, CSS, C, C++, Java**
 - 📫 How to reach me **ratulbhuiyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
