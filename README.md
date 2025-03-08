@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS Student and Web Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Building amazing Projects**
-- 🌱 I’m currently learning **Javascript, TailwindCSS**
+- 🌱 I’m currently learning **Javascript, TailwindCSS, ReactJs**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 🤝 I’m looking for help with **React js**
 - 💬 Ask me about **Html, CSS, C, C++, Java**
