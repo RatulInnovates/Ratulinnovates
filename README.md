@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safyal Muznabin Ratul</h1>
-<h3 align="center">A passionate CS Student and Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate CS Student and Web Developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on **Building amazing Projects**
 - 🌱 I’m currently learning **ReactJs**
