@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Safyal+Muznabin+Ratul!;CS+Student+from+Bangladesh;ML+%26+Data+Science+Enthusiast;Always+learning+something+new&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=4CAF50&vCenter=true&size=22" alt="Typing SVG" />
+  <!-- Static fallback for mobile -->
+  <strong>👋 Hey there, I'm Safyal Muznabin Ratul!</strong><br>
+  <em>🎓 CS Student • 🤖 ML & Data Science Enthusiast • 🌟 Lifelong Learner</em>
+</p>
+
+<!-- Animated header using your GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Funny typing animation" width="600" />
 </p>
 
 <h3 align="center">A passionate CS student exploring Machine Learning and Data Science</h3>
