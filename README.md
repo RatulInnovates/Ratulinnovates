@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Safyal Muznabin Ratul</h1>
-<h3 align="center">A passionate CS Student and Web Developer from Bangladesh.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Safyal+Muznabin+Ratul!;CS+Student+from+Bangladesh;ML+%26+Data+Science+Enthusiast;Always+learning+something+new&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=4CAF50&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on **Building amazing Projects**
-- 🌱 I’m currently learning **ReactJs**
-- 👯 I’m looking to collaborate on **Frontend Projects**
-- 🤝 I’m looking for help with **React js**
-- 💬 Ask me about **Html, CSS, C, C++, Java, Javascript, TailwindCss**
+<h3 align="center">A passionate CS student exploring Machine Learning and Data Science</h3>
+
+- 🔭 I’m currently working on **Data Science and ML Projects**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **ML and Python Projects**
+- 💬 Ask me about **Python, MySQL, ML, Html, CSS, C, C++, Java, JavaScript, TailwindCss**
 - 📫 How to reach me **ratulbhuiyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +20,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -41,9 +49,6 @@
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
