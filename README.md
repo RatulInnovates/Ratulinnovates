@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Funny typing animation" width="600" />
 </p>
 
-<h3 align="center">A passionate CS student exploring Machine Learning and Data Science</h3>
+<h3 align="center">Tinkering with data, models, and code in pursuit of smarter tech.</h3>
 
 - 🔭 I’m currently working on **Data Science and ML Projects**
 - 🌱 I’m currently learning **Machine Learning**
